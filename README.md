@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Pratap-Abhang
-- 👀 I’m interested in Programming and Developement
-- 🌱 I’m currently learning IOS app developement using Swift 5
-- 📫 How to reach me : Drop a mail on pratapabhangg1@gmail.com
+- 👀 I’m Software Engineer with wotrking experience in Android and iOS
+- 📫 How to reach me : Drop a mail or connect me on LinkedIn
+- Mail: pratap Abhang
+- LinkedIn: https://www.linkedin.com/in/pratapabhang/
 
